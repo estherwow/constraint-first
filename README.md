@@ -33,7 +33,7 @@ Plus: the working order, the signs that constraints were never set, and why this
 ## Install
 
 ```bash
-git clone https://github.com/USERNAME/constraint-first.git
+git clone https://github.com/estherwow/constraint-first.git
 cp -r constraint-first/skills/constraint-first ~/.claude/skills/
 ```
 
