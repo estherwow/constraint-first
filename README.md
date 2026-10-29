@@ -28,6 +28,14 @@ Seven classes of constraints that must be closed in writing **before** generatio
 6. **The client's facts vs. the client's hypotheses** — they arrive as one stream. Mandatory step: find which hypotheses are wrong and say so. The most valuable output of any engagement is the correction the client could not make alone.
 7. **The "why does this exist" threshold** — the reduction test: *if your conclusion can be obtained by simply shortening the client's own words, it is rejected.*
 
+**Plus an eighth class: the non-obvious move.** Not a bonus — a consequence. While everything is still permitted, the best available move is the best *ordinary* one: already known, already taken, already priced by everyone selling it. Constraints forbid the ordinary moves one by one, and what survives is non-obvious by construction rather than by inspiration.
+
+> **A non-obvious move is not an insight. It is the only move left standing after every other one was forbidden.**
+
+With five tests for it — including the one that fires most often: *the non-obvious move is usually not a new action but a renaming of something already there.* A by-product turns out to be the channel. A hobby turns out to be the asset. Look not for what's missing, but for what already exists and is labeled wrong.
+
+And the hard condition: **a non-obvious move's confidence rests on precedent, not courage.** Deliver it as *what to do · where it already worked · why the mechanism is the same here.* No precedent and no mechanism means not non-obvious, just unverified.
+
 Plus: the working order, the signs that constraints were never set, and why this works against the mechanics of generation rather than against the model.
 
 ## Install
